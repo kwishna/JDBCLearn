@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/All Jar Files/Sqlite JDBC Jar/sqlite-jdbc-3.28.0.jar"/>
+	<classpathentry kind="lib" path="E:/All Jar Files/MySqL Connector/mysql-connector-java-8.0.16.jar"/>
+	<classpathentry kind="lib" path="E:/All Jar Files/OpenCSV/CSV_JDBC/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="E:/All Jar Files/OpenCSV/CSV_JDBC/dans-dbf-lib-1.0.0-beta-10.jar"/>
+	<classpathentry kind="lib" path="E:/All Jar Files/OpenCSV/opencsv-4.6.jar"/>
+	<classpathentry kind="lib" path="E:/All Jar Files/OpenCSV/CSV_JDBC/csvjdbc-1.0.35.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
