@@ -28,7 +28,7 @@ public class EncoderDecoder {
 		//**********************************************//
 		
 		Base64.Encoder encrr = Base64.getEncoder(); // URL Encoder Object
-		String urlEnc = encrr.encodeToString("godnaara".getBytes());
+		String urlEnc = encrr.encodeToString("ara".getBytes());
 		System.out.println(":: URL Encoded - "+urlEnc);
 		
 		Base64.Decoder decrr = Base64.getUrlDecoder(); // URL Decoder Object
